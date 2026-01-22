@@ -1,4 +1,4 @@
-![Header](assets/header.jpeg)
+![Header](header.jpeg)
 
 # Appart Bot
 
